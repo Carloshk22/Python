@@ -6,4 +6,4 @@ estudante_de_programação= True
 print("Nome:", nome)
 print("Idade:", idade)
 print("Altura:", altura)
-print("Estudando TI:", estudante_de_programação)
+print("Estudate de Programação ? :", estudante_de_programação)
