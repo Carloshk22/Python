@@ -1,7 +1,7 @@
-nome = "Carlos Henrique"
-idade = 20
-altura = 1.73
-estudante_de_programação= True
+nome=(input('Digite seu nome: '))
+idade = int(input("Digite sua idade: "))
+altura =float(input('Digite sua altura: '))
+estudante_de_programação=bool(True)
 
 print("Nome:", nome)
 print("Idade:", idade)
