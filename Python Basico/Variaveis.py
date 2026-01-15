@@ -1,6 +1,6 @@
 nome = "Carlos Henrique"
 idade = 20
-altura = 1.75
+altura = 1.73
 estudante_de_programação= True
 
 print("Nome:", nome)
